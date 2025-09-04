@@ -47,3 +47,5 @@ Preparar uma apresentação em PDF com respostas e gráficos.
 
 Dashboard Publicado
 Acesse o dashboard completo aqui
+
+https://public.tableau.com/app/profile/bruno.dias2168/viz/DashboarddeTendnciasdoYouTube-Sprint12/Dashboard
